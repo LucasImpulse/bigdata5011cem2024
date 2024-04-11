@@ -23,8 +23,6 @@ from sklearn.linear_model import LinearRegression  # for linear regression
 # i imported them all so i can switch between them and see
 
 from sklearn.metrics import mean_squared_error
-
-
 # apparently this helps us during regression
 
 def pandas_test():
